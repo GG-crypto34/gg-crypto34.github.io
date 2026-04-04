@@ -1,0 +1,19 @@
+on:
+  push:
+    - workflows: [check-site]
+      filter:
+        branches: ["main"]
+
+workflows:
+  check-site:
+    tasks:
+      - check-task
+
+tasks:
+  - name: check-task
+    cubes:
+      - name: verify-static-site
+        image: docker.io/library/alpine
+        script:
+          - test -f docs/index.html
+          - echo "Static site is ready for SourceCraft Sites"
