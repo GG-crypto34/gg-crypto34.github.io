@@ -23,7 +23,7 @@ theme:
     - search.suggest
 
 nav:
-  - Главная: .docs/index.md
+  - Главная: index.md
   - Обо мне: about.md
   - Лабораторные: labs.md
 
