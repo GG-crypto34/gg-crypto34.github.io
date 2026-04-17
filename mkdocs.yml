@@ -1,10 +1,9 @@
 site_name: Портфолио
 site_description: Портфолио лабораторных работ
 site_author: Зайцев Владимир Андреевич
-site_url: https://GG-crypto34.github.io/your-repo-name/
-repo_url: https://github.com/GG-crypto34/your-repo-name
-repo_name: GG-crypto34/your-repo-name
-
+site_url: https://GG-crypto34.github.io/
+repo_url: https://github.com/GG-crypto34/gg-crypto34.github.io
+repo_name: gg-crypto34.github.io
 theme:
   name: material
   language: ru
