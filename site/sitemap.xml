@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://GG-crypto34.github.io/ИМЯ-РЕПОЗИТОРИЯ/</loc>
+         <loc>https://GG-crypto34.github.io/your-repo-name/</loc>
          <lastmod>2026-04-17</lastmod>
     </url>
     <url>
-         <loc>https://GG-crypto34.github.io/ИМЯ-РЕПОЗИТОРИЯ/about/</loc>
+         <loc>https://GG-crypto34.github.io/your-repo-name/about/</loc>
          <lastmod>2026-04-17</lastmod>
     </url>
     <url>
-         <loc>https://GG-crypto34.github.io/ИМЯ-РЕПОЗИТОРИЯ/labs/</loc>
+         <loc>https://GG-crypto34.github.io/your-repo-name/labs/</loc>
          <lastmod>2026-04-17</lastmod>
     </url>
 </urlset>

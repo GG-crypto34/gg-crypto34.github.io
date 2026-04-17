@@ -1,7 +1,9 @@
-site_name: Портфолио лабораторных работ
-site_description: Сайт-портфолио с лабораторными работами и проектами
+site_name: Портфолио
+site_description: Портфолио лабораторных работ
 site_author: Зайцев Владимир Андреевич
-site_url: https://GG-crypto34.github.io/ИМЯ-РЕПОЗИТОРИЯ/
+site_url: https://GG-crypto34.github.io/your-repo-name/
+repo_url: https://github.com/GG-crypto34/your-repo-name
+repo_name: GG-crypto34/your-repo-name
 
 theme:
   name: material
@@ -13,11 +15,17 @@ theme:
   font:
     text: Inter
     code: Roboto Mono
+  features:
+    - navigation.top
+    - navigation.sections
+    - content.code.copy
+    - search.highlight
+    - search.suggest
 
 nav:
   - Главная: index.md
   - Обо мне: about.md
-  - Лабораторные работы: labs.md
+  - Лабораторные: labs.md
 
 extra_css:
   - stylesheets/extra.css
