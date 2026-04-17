@@ -1,0 +1,37 @@
+:root {
+  --md-primary-fg-color: #f7f4ef;
+  --md-primary-fg-color--light: #fbf9f5;
+  --md-primary-fg-color--dark: #ece6dc;
+  --md-accent-fg-color: #7d9774;
+}
+
+.md-header {
+  box-shadow: none;
+  border-bottom: 1px solid #e7e0d6;
+}
+
+.md-main {
+  background: linear-gradient(180deg, #f7f4ef 0%, #f2eee7 100%);
+}
+
+.md-content__inner {
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid #e7e0d6;
+  border-radius: 24px;
+  padding: 24px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04);
+}
+
+.md-typeset a {
+  color: #6f8a66;
+}
+
+.md-typeset .md-button--primary {
+  background-color: #7d9774;
+  border-color: #7d9774;
+}
+
+.md-typeset .md-button--primary:hover {
+  background-color: #6d8665;
+  border-color: #6d8665;
+}
