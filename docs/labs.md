@@ -34,7 +34,52 @@
     <div class="card-title">Google Colab</div>
     <div class="card-text">Ноутбук с лабораторной работой в Google Colab.</div>
     <div class="card-actions">
-      <a class="md-button md-button--primary" href="https://colab.research.google.com/drive/1HECnHlJ_azXx8pqoBXVkdMdINTQ6-_Pm?usp=sharing" target="_blank">Открыть</a>
+      <a class="md-button md-button--primary" href="https://colab.research.google.com/drive/1YB3T0JS2ew3jPsBrFIgwjWf-gVHvu76o?usp=sharing" target="_blank">Открыть</a>
     </div>
+  </div>
+
+  <div class="lab-card">
+    <div class="lab-number">Лабораторная работа №6</div>
+    <div class="card-title">Очистка и трансформация данных (Pandas)</div>
+    <div class="card-text">
+    Анализ и предобработка датасета Titanic: обработка пропусков,
+    трансформация признаков, работа с выбросами и агрегация данных.
+    </div>
+    <div class="card-actions">
+      <a
+      class="md-button md-button--primary"
+      href="https://colab.research.google.com/drive/1l2dkDgYpptFtqZ04QMnMcDnTh7zl0D1b?usp=sharing"
+      target="_blank"
+      >
+      Открыть
+      </a>
+    </div>
+  </div>
+  <div class="lab-card"> 
+    <div class="lab-number">Лабораторная работа №7</div>
+    <div class="card-title">Google Colab</div> 
+    <div class="card-text"> Ноутбук с выполненной лабораторной работой в Google Colab. </div>
+    <div class="card-actions"> 
+      <a 
+      class="md-button md-button--primary" 
+      href="https://colab.research.google.com/drive/1jDdxC_Q8O0Hjwk6SPtU18SekSsJm4lpt?usp=sharing" target="_blank"
+      > 
+      Открыть 
+      </a> 
+    </div> 
+  <div>
+
+  <div class="lab-card"> 
+    <div class="lab-number">Лабораторная работа №8</div>
+    <div class="card-title">Google Colab</div> 
+    <div class="card-text"> Ноутбук с выполненной лабораторной работой в Google Colab. </div>
+    <div class="card-actions"> 
+      <a 
+      class="md-button md-button--primary" 
+      href="https://colab.research.google.com/drive/1mJiKM02MtSLDxgyGSteTnVFMBH94GFs-?usp=sharing" target="_blank"
+      > 
+      Открыть 
+      </a> 
+    </div> 
   </div>
 </div>
