@@ -15,5 +15,6 @@ tasks:
       - name: verify-static-site
         image: docker.io/library/alpine
         script:
-          - test -f docs/index.html
+          - test -f site/index.html
+          - test -f site/assets/stylesheets/main.484c7ddc.min.css
           - echo "Static site is ready for SourceCraft Sites"
